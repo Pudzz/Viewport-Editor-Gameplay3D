@@ -1,0 +1,2 @@
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\UD1447 Projekt\MayaViewer_UD1447\Debug\MayaViewer.exe
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\UD1447 Projekt\MayaViewer_UD1447\Debug\MayaViewer.pdb

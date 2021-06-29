@@ -1,0 +1,2 @@
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\UD1447 Projekt\x64\Debug\MayaAPI.mll
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\UD1447 Projekt\x64\Debug\MayaAPI.pdb
